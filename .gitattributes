@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.sh text eol=lf
+*.rules text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+uv.lock text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.img binary

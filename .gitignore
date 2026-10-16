@@ -1,0 +1,12 @@
+.venv/
+.venv-wsl/
+.venv-linux/
+.research/
+__pycache__/
+*.pyc
+captures/
+.ruff_cache/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
